@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineering Student<br>🌱 Currently learning AWS and Firebase<br>🔥 Interested to Fullstack Development<br>
+👨‍💻 Software Engineering Student<br>🌱 Currently learning Laravel and Go<br>🔥 Interested to Fullstack Development<br>
 
 
 ## 🌐 Socials:
